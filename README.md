@@ -30,7 +30,7 @@ This metric helps assess whether the stock market is overvalued or undervalued r
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/DeveloperMODE-korea/Buffett-indicator.git
 cd Buffett-indicator
 ```
 
